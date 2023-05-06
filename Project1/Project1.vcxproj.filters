@@ -18,5 +18,8 @@
     <MASM Include="hw02.asm">
       <Filter>소스 파일</Filter>
     </MASM>
+    <MASM Include="shld_example.asm">
+      <Filter>소스 파일</Filter>
+    </MASM>
   </ItemGroup>
 </Project>
